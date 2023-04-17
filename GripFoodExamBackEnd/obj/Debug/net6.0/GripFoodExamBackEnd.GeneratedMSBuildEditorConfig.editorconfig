@@ -1,0 +1,37 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GripFoodExamBackEnd
+build_property.RootNamespace = GripFoodExamBackEnd
+build_property.ProjectDir = D:\Vanness Iwata\Informatika - UMN\Accelist\FrontEndExam\GripFoodExamBackEnd\GripFoodExamBackEnd\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Vanness Iwata\Informatika - UMN\Accelist\FrontEndExam\GripFoodExamBackEnd\GripFoodExamBackEnd
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Vanness Iwata/Informatika - UMN/Accelist/FrontEndExam/GripFoodExamBackEnd/GripFoodExamBackEnd/Pages/Auth/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vanness Iwata/Informatika - UMN/Accelist/FrontEndExam/GripFoodExamBackEnd/GripFoodExamBackEnd/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vanness Iwata/Informatika - UMN/Accelist/FrontEndExam/GripFoodExamBackEnd/GripFoodExamBackEnd/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vanness Iwata/Informatika - UMN/Accelist/FrontEndExam/GripFoodExamBackEnd/GripFoodExamBackEnd/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vanness Iwata/Informatika - UMN/Accelist/FrontEndExam/GripFoodExamBackEnd/GripFoodExamBackEnd/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
